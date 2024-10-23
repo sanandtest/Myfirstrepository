@@ -22,7 +22,7 @@ on:
       - name: List files in the repository
         run: |
           echo "The repository ${{ github.repository }} contains the following files:"
-          tree
+          tree.
      
     
   
